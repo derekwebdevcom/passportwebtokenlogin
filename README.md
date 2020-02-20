@@ -1,5 +1,3 @@
-# passportwebtokenlogin
-
 # Nodejs Login System
 ![Final App](https://www.derekwebdev.com/gifs/banking.gif)
 
