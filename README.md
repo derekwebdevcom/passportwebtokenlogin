@@ -12,8 +12,8 @@ server side javascript
 
 ## Configuration
 
-Bootstrap Alerts(https://www.w3schools.com/bootstrap/bootstrap_alerts.asp)
+[Bootstrap Alerts](https://www.w3schools.com/bootstrap/bootstrap_alerts.asp)
 
 ## Quick Start to DashBoard
 
-Bootswatch for quick and free styling of forms (https://bootswatch.com/)
+[Bootswatch for quick and free styling of forms](https://bootswatch.com/)
